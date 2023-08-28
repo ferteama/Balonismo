@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d57dc035-90f6-4994-8fe3-6f7bb5ec701c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/balao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/piloto.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/piloto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/piloto.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +35,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "Z:/2º ano/LPAP/Balonismo"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -48,6 +48,10 @@
       <option name="presentableId" value="Default" />
       <updated>1686839100342</updated>
       <workItem from="1686839104881" duration="3666000" />
+      <workItem from="1691072450587" duration="1778000" />
+      <workItem from="1691677178053" duration="354000" />
+      <workItem from="1692621067041" duration="475000" />
+      <workItem from="1693225894624" duration="205000" />
     </task>
     <servers />
   </component>

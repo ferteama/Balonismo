@@ -25,6 +25,6 @@ public class Main {
 
         Pil.nome = "Josepi Alves";
         Pil.CPF = "876.976.848-33";
-        Pil.ANAC = ""
+        Pil.anac = "36498-5";
     }
-}
+} i agora?

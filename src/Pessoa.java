@@ -9,8 +9,7 @@ public class Pessoa {
     String endereco;
     boolean termoCienciaRisco;
 
-
-
+    String anac; //12345-6
     //Métodos
     public void pesquisarEmpresa(){
 
